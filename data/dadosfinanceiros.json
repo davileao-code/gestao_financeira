@@ -1,0 +1,74 @@
+{
+    "Janeiro/2026": {
+        "Nubank": 433.0,
+        "Click": 0.0,
+        "Amazon": 50.0,
+        "Inter": 111.0
+    },
+    "Fevereiro/2026": {
+        "Nubank": 123.0,
+        "Click": 489.25,
+        "Amazon": 333.0,
+        "Inter": 69.68
+    },
+    "Março/2026": {
+        "Nubank": 13464.0,
+        "Click": 1345.0,
+        "Amazon": 133.0,
+        "Inter": 0
+    },
+    "Abril/2026": {
+        "Nubank": 0,
+        "Click": 156.0,
+        "Amazon": 33.98,
+        "Inter": 0
+    },
+    "Maio/2026": {
+        "Nubank": 0,
+        "Click": 0,
+        "Amazon": 33.98,
+        "Inter": 0
+    },
+    "Junho/2026": {
+        "Nubank": 0,
+        "Click": 0,
+        "Amazon": 0,
+        "Inter": 0
+    },
+    "Julho/2026": {
+        "Nubank": 0,
+        "Click": 0,
+        "Amazon": 0,
+        "Inter": 0
+    },
+    "Agosto/2026": {
+        "Nubank": 0,
+        "Click": 0,
+        "Amazon": 0,
+        "Inter": 0
+    },
+    "Setembro/2026": {
+        "Nubank": 0,
+        "Click": 0,
+        "Amazon": 0,
+        "Inter": 0
+    },
+    "Outubro/2026": {
+        "Nubank": 0,
+        "Click": 0,
+        "Amazon": 0,
+        "Inter": 0
+    },
+    "Novembro/2026": {
+        "Nubank": 0.0,
+        "Click": 0,
+        "Amazon": 0,
+        "Inter": 0
+    },
+    "Dezembro/2026": {
+        "Nubank": 100.0,
+        "Click": 0,
+        "Amazon": 0,
+        "Inter": 100.0
+    }
+}
